@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background:radial-gradient(#18ad31, #fff) fixed;
+
+}
+
+header {
+  background: #18ad3155;
+  width: 100%;
+}
+
+nav {
+  max-width:  900px;
+  margin: 0 auto;
+  overflow: hidden
+}
+
+nav ul {
+  margin: auto;
+  display: block;
+  max-width: 660px;
+}
+
+main{
+  max-width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+main > *{
+  float:left;
+}
+
+main > :nth-child(odd){
+  width:25%
+}
+
+main > :nth-child(2){
+  width: 50%;
+}
+
+main ul, main li {
+  padding: 0;
+  margin: 10px 0;
+}
+
+aside{ 
+  padding-left: 30px;
+}
+
+img {
+  max-height: 300px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+li {
+  display: inline-block;
+  list-style: none;
+  margin: 20px 40px 20px 0px;
+  font-size: 1.2em;
+  
+}
+
+footer {
+  background: #18ad3155;
+  width: 100%;
+  height: 100px;
+  clear:  both;
+}
+
+footer div {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+section div {
+  padding: 7px;
+  box-sizing: border-box;
+  float: left;
+  width: 50%;
+}
