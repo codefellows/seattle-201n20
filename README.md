@@ -27,7 +27,7 @@ Assignments are submitted using a professional-grade git-flow. If you haven't do
 
 ## Index of Cheatsheets and Resources
 
-- [new project setup](https://codefellows.github.io/code-201-guide/curriculum/class-02/project-setup){:target="_blank"}
+- [new project setup](https://codefellows.github.io/code-201-guide/curriculum/class-02/project_setup){:target="_blank"}
 - [css everything cheatsheet](https://overapi.com/css){:target="_blank"}
 - [collection of cheatsheets by overApi](https://overapi.com/){:target="_blank"}
 
