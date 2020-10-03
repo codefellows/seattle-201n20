@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  margin: 20px;
+  font-size: large;
+  font-weight: bold;
+}
+
+p {
+  padding: 10px;
+}
+
+#first-paragraph {
+  background-color: blue;
+  color: aliceblue
+}
+
