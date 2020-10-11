@@ -4,8 +4,8 @@
 
 ## Lecture
 
-(Code Pen Class Demo)[https://codepen.io/rkgallaway/pen/LYZVppG]
-(repl.it Class Demo)[https://repl.it/@rkgallaway/201n20-warmup-05]
+- (Code Pen Class Demo)[https://codepen.io/rkgallaway/pen/LYZVppG]
+- (repl.it Class Demo)[https://repl.it/@rkgallaway/201n20-warmup-05]
 
 ### Learning Objectives
 
