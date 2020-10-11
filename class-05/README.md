@@ -4,6 +4,9 @@
 
 ## Lecture
 
+(Code Pen Class Demo)[https://codepen.io/rkgallaway/pen/LYZVppG]
+(repl.it Class Demo)[https://repl.it/@rkgallaway/201n20-warmup-05]
+
 ### Learning Objectives
 
 As a result of completing Lecture 5 of Code 201, students will:
