@@ -6,6 +6,8 @@
 
 ## Learning Objectives
 
+-  [Class demo repl:](https://repl.it/@rkgallaway/201n20-class-06-object-literals)  
+
 As a result of completing Lecture 6 of Code 201, students will:
 
 - Be able to translate a real-world problem domain into a code model by using provided user stories and technical requirements, as measured by successful completion of the daily code assignment
