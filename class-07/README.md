@@ -2,6 +2,8 @@
 
 ## Lecture
 
+- [Class Demo repl](https://repl.it/@rkgallaway/201n20-class-07-objects-constructors#index.js)
+
 ### Learning Objectives
 
 As a result of completing Lecture 7 of Code 201, students will:
