@@ -1,6 +1,7 @@
 # More Topics in CSS Layouts
 
 ## Today's Schedule
+- [2d Arrays Repl](https://repl.it/@rkgallaway/201n20-2d-arrays#index.js)
 
 ### Learning Objectives
 
