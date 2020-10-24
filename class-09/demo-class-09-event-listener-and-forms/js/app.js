@@ -129,13 +129,13 @@ function handleSubmit(event){
 
   // INSIDE EVENT HANDLER!!!!   WHY?!  Ansychronous!
   // rerender totals row?
-    // - need to renrender
-    // - maybe clear the old one first? possibly clear INNERHTML?
+  //  - need to renrender
+  //  - maybe clear the old one first? possibly clear INNERHTML?
   // how many footer rows will you have?
   // will the totals reflect the new store added?
-    // - how is total generated
-    // - if seperate function. maybe run that function again?
-    // - will totals be correct?  or do they need to be reset to ZERO - BEFORE calculating totals again???
+  //  - how is total generated
+  //  - if seperate function. maybe run that function again?
+  //  - will totals be correct?  or do they need to be reset to ZERO - BEFORE calculating totals again???
 
 
 }
