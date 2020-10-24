@@ -1,0 +1,75 @@
+h1 {
+  text-align: center;
+}
+
+section:first-child {
+  margin-bottom: 20px;;
+  border: 10px solid purple;
+  text-align: center;
+}
+
+article {
+  margin: 20px;
+  line-height: 200px;
+  height: 200px;
+  display: inline-block;
+  width: 200px;
+  text-align-last: center;
+  font-size: 30px;
+  font-weight: bold;
+  border: 10px solid green
+}
+
+p {
+  border:1px solid black;
+  padding: 5px;
+  width: 200px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+#box-one {
+  background-color: aqua;
+}
+
+#box-two {
+  background-color: bisque;
+}
+
+#box-three {
+  background-color: cornflowerblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+form {
+  /* margin-top: 800px; */
+  border: 3px solid blue;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 25px;
+}
+
+select {
+  display: block;
+  margin-bottom: 25px;
+}
