@@ -1,0 +1,23 @@
+h1, h3 , ul{
+  text-align: center;
+}
+
+body {
+  background-color: rgba(4, 73, 50, .2);
+}
+
+section {
+  width: 80%;
+  margin: auto;
+  border: 4px solid rgb(4, 73, 50);
+}
+
+img {
+  width: 300px;
+}
+
+#contain {
+  width: 600px;
+  height: 600px;
+  margin: auto;
+}
